@@ -2,23 +2,23 @@ Why the playground?
 
 -Our new users want to use a basic ide like atom.
 -They want to get the basics of source control github
--They want to get a sample hello world going
+-They want to get a sample hands on with python
 
 
-What's next?
+How to get started
 -Download atom (https://atom.io/)
--Install homebrew (From terminal window, paste:
+-Install homebrew (From terminal window, paste below)
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 -From terminal: brew install python3
 -Done!
 
 Let's "clone" a repo. This is simply "downloading" a copy of that repo to your harddrive
 
-From atom, let's grab a basic repo so you can begin
-Within atom, use hotkeys: Command +Shift + P
-Type : Github clone
-From the results, click Github clone
-Paste in this repo: https://github.com/kennydigital/playground.git
+1. From atom, let's grab a basic repo so you can begin
+2. Within atom, use hotkeys: Command +Shift + P
+3. Type : Github clone
+4. From the results, click Github clone
+5. Paste in this repo: https://github.com/kennydigital/playground.git
 
 TODO:
 -Show how to authorize atom + github, and copy/pasting token into the introduce
@@ -34,7 +34,9 @@ Command  + S  : Save my current code
 
 ```
 
-Items we will do
+What we will cover together:
+
 -Quick introduction to check-ins, branches
 -Quick way of using the ide to run python
 -Quick way of understanding basic functions
+-I will give you basics, you try yourself
