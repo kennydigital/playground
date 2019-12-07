@@ -6,6 +6,7 @@ Why the playground?
 
 
 How to get started
+
 -Download atom (https://atom.io/)
 -Install homebrew (From terminal window, paste below)
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -38,5 +39,15 @@ What we will cover together:
 
 -Quick introduction to check-ins, branches
 -Quick way of using the ide to run python
--Quick way of understanding basic functions
--I will give you basics, you try yourself
+-Quick way of understanding basic functions (sample_pyfunc.py)
+-I will give you basics, you try yourself (sample_rest.py, chinhook.db)
+
+How to execute the samples:
+
+Sample - Rest Api
+
+From command line :
+
+python sample_rest.py
+This will initialize flask, and provide an endpoint you can hit from your webbrowser
+http://127.0.0.1:5002/employees
